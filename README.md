@@ -1,14 +1,9 @@
-#Data_Types
-Experiment_2
-
-#AIM -
-To check given data types
-
-#Software - VS code
-#Theory
+# Experiment 2: Data Types
+# App used: VS Code
+# Theory
 Data types are fundamental to programming, providing a way to define the type of data that can be stored and manipulated within a program
 
-#Data Types:
+Data Types:
 Primitive data types are the most basic data types provided by a programming language. These are typically built-in and are used to store simple values.
 
 1. Integers (int): Whole numbers without a fractional part.
@@ -29,18 +24,20 @@ Example: bool isStudent = true;
 6. String Types:
 String: Represents a sequence of characters. Example: string name = "Alice";
 
-#Algorithm
-Start
+# Algorithm
+1. Start
 
-Include Necessary Headers
+2. Include Necessary Headers
 
-Include the header files and to use string and I/O functionalities. Using Namespace
+3. Include the header files and to use string and I/O functionalities. Using Namespace
 
-Declare variables of different data types: int, float, char, bool, string, and double. Input and Output Operations
+4. Declare variables of different data types: int, float, char, bool, string, and double. Input and Output Operations
 
-For each variable: Prompt the user to enter a value. Read the input value. Output the size of the variable using the sizeof operator.
+5. For each variable: Prompt the user to enter a value. Read the input value. Output the size of the variable using the sizeof operator.
 
-#End
+6. End
 
-#conclusion:
+# Conclusion
 we learned the data types in c plus plus
+
+
